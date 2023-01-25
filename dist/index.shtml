@@ -13,7 +13,7 @@
     <h1 id="title">Ali Raeisdanaei</h1>
 
     <div id="about-me">
-        <!--#include file="./content/about-me.html" -->
+        <!--#include file="./contents/about-me.html" -->
     </div>
 </body>
 
